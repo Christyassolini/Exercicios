@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title> Lista de Compra </title>
+  </head>
+  <body>
+    <ol>
+      <h3> Lista de Compras </h3>
+      <li>Arroz</li>
+      <li>feijão</li>
+      <li>Carne</li>
+      <li>Macarrão</li>
+      <li>Suco</li>
+    </ol>
+  </body>
+</html>
