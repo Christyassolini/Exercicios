@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <center>
+      <font face="cambria"><h1>CHEVROLET</h1></font>
+      </center>
+      <font face="arial"><p>A Chevrolet é uma empresa estadunidense, fundada em 1911.<br>
+      A empresa faz parte da General Motors, uma das maiores fabricantes de automóveis do mundo.<br>
+      <br>
+      A Chevrolet produz uma ampla gama de veículos:</p></font>
+    <center>
+    <hr>
+    <br>
+    <br>
+    <br>
+      <img src="" style=" weidth: 900px; 400px"/>
+    </center>
+  </body>
+</html>
