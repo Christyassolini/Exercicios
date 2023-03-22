@@ -6,18 +6,25 @@
   </head>
   <body>
     <center>
-      <h1>Chevrolet Sedans</h1>
+      <font face="cambria"><h1>Chevrolet Sedans</h1></font>
+      <font face="cambria"><p>Somente modelos 2023</p></font>
     <br>
     <br>
     <br>
-      <p>Chevrolet Cruze</p>
+      <font face="arial"><p>Chevrolet Cruze</p></font>
       <img src="https://www.chevrolet.com.br/content/dam/chevrolet/mercosur/brazil/portuguese/index/cars/2021-cruze-premier/mov/05-images/chevrolet-cruze-xl.jpg?imwidth=960" style="width: 900px; height: 400px">
+      <font face="Arial"><p>Cruze Midnight 1.4 16V Turbo Flex Automático - R$ 133.428<br>
+      Cruze Sedan LT 1.4 16V Turbo Flex 4p Automático - R$ 125.079<br>
+      Cruze Sedan LTZ 1.4 16V Turbo Flex 4p Automático - R$ 143.562<br>
+      Cruze Sedan Premier 1.4 16V Turbo Flex Automático - R$ 146.336
+      </p></font>
     <hr>
     <br>
     <br>
     <br>
-      <p>Chevrolet Onix Plus</p>
+      <font face="arial"><p>Chevrolet Onix Plus</p></font>
       <img src="https://www.chevrolet.com.br/content/dam/chevrolet/mercosur/brazil/portuguese/index/cars/2023-onix-plus/drp/design-desk.jpg?imwidth=960" style=" weidth: 900px; height: 400px">
+    <font face="arial"><p>Onix Plus LT 1.0 12V Flex 4p Gasolina - R$ 85.240</p></font>
     <hr>
     </center>
   </body>
