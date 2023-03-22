@@ -6,30 +6,32 @@
   </head>
   <body>
     <center>
-    <h1><i>Chevrolet SUVs</i></h1>
-    <li>Aproximadamente R$</li>
+    <font face="cambria"><h1>Chevrolet SUVs</h1></font>
+    <font face="cambria"><p>Somente modelos 2023</p></font>
+    <hr>
     <br>
     <br>
     <br>
-    <ul>
-      <li><i>Chevrolet Trailblazer</i></li>
-    </ul>
+      <font face="arial"><p>Chevrolet Trailblazer</p></font>
     <img src="https://quatrorodas.abril.com.br/wp-content/uploads/2020/08/Chevrolet-Trailblazer-Premier-2021-3-e1598300804709.jpeg?quality=70&strip=info" style="weidth: 900px; height: 400px"/>
+      <font face="arial"><p>TRAILBLAZER PREMIER 2.8 TB Diesel Automático - R$ 342.366,00</p></font>
+    <hr>
     <br>
     <br>
     <br>
     <ul>
-      <li><i>Chevrolet Equinox</i></li>
-      <li>Aproximadamente R$119.000,00</li>
-    </ul>
+      <font face="arial"><p>Chevrolet Equinox</p></font>
     <img src="https://s2.glbimg.com/8nH5LFvg3qP40jZH6dbnuUIZnxE=/0x0:1234x684/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/S/F/GGBAyxQLuhMRyHps0tdg/novo-equinox-premier-1-01.jpg" style="weidth: 900px; height: 400px"/>
+      <font face="arial"><p>Chevrolet Equinox Lt 1.5 Turbo 172cv Automático Gasolina - 	R$ 152.695,00</p></font>
+    <hr>
     <br>
     <br>
     <br>
-    <ul>
-      <li><i>Chevrolet Tracker</i></li>
-    </ul>
+      <font face="arial"><p>Chevrolet Tracker</p></font>
     <img src="https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2021/10/18/tracker.jpg" style="weidth: 900px; height: 400px"/>
+      <font face="arial"><p>Chevrolet Tracker Premier 1.2 turbo (flex) Automático - R$ 142.208<br>
+      Chevrolet Tracker LT 1.0 turbo (flex) Automático - R$ 117.281</p></font>
+    <hr>
     </center>
   </body>
 </html>
